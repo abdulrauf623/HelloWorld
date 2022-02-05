@@ -16,6 +16,18 @@ The following **required** functionality is complete:
 * [ ] User can click a button to channge the color of the name in the middle of the screen
 
 
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='http://i.imgur.com/HelloWorld GIF2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+
+HelloWorld GIF2.gif
+
+
 
 ## Notes
 
